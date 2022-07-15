@@ -1,0 +1,98 @@
+            @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+            .image {
+                width: 250px;
+                float: left;
+                margin: 20px;
+            }
+
+            body {
+                font-size: small;
+                font-family: "Roboto", sans-serif;
+                box-sizing: border-box;
+                padding: 0;
+                margin: 0;
+            }
+
+            .container {
+                border: 1px solid black;
+                float: left;
+                width: 225px;
+                height: auto;
+                margin: 20px;
+                padding: 0px 10px;
+                
+            }
+
+            .header {
+                border-bottom: 10px solid black;
+                margin-bottom: 5px;
+            }
+            .header2 {
+                border-bottom: 5px solid black;
+                margin-top: 5px;
+            }
+
+            .Nutrition_Facts_title {
+                font-weight: bold; 
+                color: black;
+                margin: 0 0 0.25rem 0;
+                font-size: 30px;
+                border-bottom: 1px solid black;
+            }
+
+            p {
+                margin: 0;
+                padding: 0;
+            }
+            .normal_weight {
+                font-weight: normal;
+                font-size: 15px;
+            }
+
+            .bold_weight {
+                font-size: 15px;
+                font-weight: bold;
+            }
+            span {
+                float: right;
+            }
+
+            #calories_title {
+                font-size: 26px;
+            }
+
+            #calories_80 {
+                font-size: 31px;
+            }
+
+            table {
+                width: 100%;
+                
+            }
+            td {
+                border-bottom: 1px solid black;
+            }
+
+            #daily_value {
+                font-size: 12.5px;
+            }
+
+            .bold_weight_left, .normal_weight_left {
+                float: left;
+                
+            }
+
+            .bold_weight_left {
+                font-weight: bold;
+            }
+
+            .normal_weight_left {
+                
+                font-weight: normal;
+            }
+
+            #table_footer_info {
+                font-weight: normal;
+                font-size: 9.5px;
+            }          
